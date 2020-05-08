@@ -1,6 +1,6 @@
 # pakistan_beauty
 
-A new Flutter project.
+A Simple Flutter project to show Sailful
 
 ## Getting Started
 
