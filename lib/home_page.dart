@@ -29,7 +29,7 @@ class _HomePageState extends State<HomePage> {
               width: double.infinity,
               child: Image(
                 fit: BoxFit.fitWidth,
-                image: AssetImage("assets/download.jpeg"),
+                image: AssetImage("assets/saif-ul-malook.png"),
               ),
             ),
             SizedBox(height: 10),
